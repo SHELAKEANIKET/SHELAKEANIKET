@@ -1,5 +1,5 @@
 # 💫 About Me:
-1+ year experienced Full Stack Developer (MERN Stack).<br>Experience building and maintaining scalable web applications.<br>Skilled in developing and integrating RESTful APIs.<br>Built role-based authentication systems and dashboards.<br>Experienced with Git, GitHub, Postman for development workflow.<br>Developed live projects including E-learning & E-commerce platforms.<br>B. Tech in CSE with 8.05 CGPA.
+1.5 year experienced Full Stack Developer.<br>Experience building and maintaining scalable web applications.<br>Skilled in developing and integrating RESTful APIs.<br>Built role-based authentication systems and dashboards.<br>Experienced with Git, GitHub, Postman for development workflow.<br>Developed live projects including E-learning & E-commerce platforms.<br>B. Tech in CSE with 8.05 CGPA.
 
 
 ## 🌐 Socials:
